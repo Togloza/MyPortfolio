@@ -33,6 +33,14 @@ h6,
   font-family: "Raleway", sans-serif;
 }
 
+.header {
+  color: #fff;
+}
+
+.skills-section strong {
+  font-size: 20px; /* Adjust the font size as desired */
+}
+
 .section {
   padding: 7rem 0;
 }
